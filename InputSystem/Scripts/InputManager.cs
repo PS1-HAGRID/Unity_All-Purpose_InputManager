@@ -20,7 +20,6 @@ public class InputManager : MonoBehaviour
     private const string DEBUG = "Debug";
 
     private float _InitialPinch = 0;
-    
     private bool _IsPinching = false;
 
     private void OnEnable()

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 public static class CustomEventManager
 {
+    //Example Events, feel free to use them or make your own in separate classes
     public delegate void OnTapEvent();
     public delegate void OnDoubleTapEvent();
     public delegate void OnPressEvent();
